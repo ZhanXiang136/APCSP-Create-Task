@@ -1,8 +1,8 @@
-# Math QUIZ Practice
+# Zhan Xiang Zheng
+# Math Quiz Game
 import random
 from sympy import symbols, solve
 import time
-
 
 # check if user input is a valid digit
 def check_digit(input_string, first_range, last_range):
